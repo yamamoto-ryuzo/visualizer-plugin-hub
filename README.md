@@ -23,7 +23,7 @@ Plugins officially developed or maintained by the Re:Earth team.
 
 Plugins developed and maintained by the community.
 
-> Have a cool plugin? Feel free to [Submit a PR](https://github.com/reearth-plugins/plugin-hub/edit/main/README.md) to add it here!
+> Have a cool plugin? Feel free to [Submit a PR](https://github.com/reearth-plugins/plugin-hub/blob/main/plugin-zips/CONTRIBUTING.md) to add it here!
 
 - *(Your plugin here)*
 
@@ -32,3 +32,4 @@ Plugins developed and maintained by the community.
 - [Plugin Playground](https://visualizer.reearth.io/plugin-playground?plugin-id=my-plugin) - A playground to test and preview your plugins directly in Re:Earth Visualizer.
 - [Re:Earth Official Website](https://reearth.io/home) - Learn more about Re:Earth and its ecosystem.
 - [Re:Earth Visualizer GitHub](https://github.com/reearth) - Source code and repositories related to Re:Earth Visualizer.
+
