@@ -15,6 +15,7 @@ A list of plugins built for Re:Earth Visualizer, including both plugins official
 | Name | Description | Made by |
 | --- | --- | --- | 
 | [cms-data-visualizer-plugin](https://github.com/reearth-plugins/cms-data-visualizer-plugin) | Visualize CMS data on 3D maps with customizable markers and information displays. | Official |
+| [ReEarth_GeoSuite](https://github.com/yamamoto-ryuzo/ReEarth_GeoSuite) | Integrated plugin providing XYZ tile management, layer list UI, Terrain/Shadow toggles, and HTML info display. | Community |
 | Your plugin here | | Community |
 
 
