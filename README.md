@@ -15,6 +15,7 @@ A list of plugins built for Re:Earth Visualizer, including both plugins official
 | Name | Description | Made by |
 | --- | --- | --- | 
 | [cms-data-visualizer-plugin](https://github.com/reearth-plugins/cms-data-visualizer-plugin) | Visualize CMS data on 3D maps with customizable markers and information displays. | Official |
+| [cms-csv-importer](https://github.com/reearth-plugins/cms-csv-importer) | An importer that allows you to import data in CSV format into a CMS model from the Visualizer editor. | Official |
 | Your plugin here | | Community |
 
 
@@ -32,6 +33,7 @@ Resources for developers who want to build plugins for Re:Earth Visualizer.
 - [Tutorials & Workshops Materials](https://eukarya.notion.site/1e016e0fb16580da962bf5014606f509?v=1e016e0fb1658053b3cd000cdb616214) - Tutorials and workshop resources for learning visualizer/Pugin.  
 - [Re:Earth Official Website](https://reearth.io/home) - Learn more about Re:Earth and its ecosystem.
 - [Re:Earth Visualizer GitHub](https://github.com/reearth) - Source code and repositories related to Re:Earth Visualizer.
+
 
 
 
